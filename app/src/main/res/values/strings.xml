@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ContactPicker</string>
+    <string name="app_name">Contact Picker</string>
+    <string name="pick_contact">Pick Contact</string>
+
+    <string name="rationale_title">We need permission to read your contacts</string>
+    <string name="rationale_message">This app relies on read access to your contacts.
+        We will not store any contact info in our data base or use for sharing any detail.</string>
 </resources>
